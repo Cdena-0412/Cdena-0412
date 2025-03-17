@@ -1,16 +1,19 @@
 ## Hi there 👋
+Hi there! 👋 I'm Cheneli Jayawardena, a passionate Data Enthusiast with a strong interest in data analysis, machine learning, and data science. I’m currently building my skills through self-driven projects, and this repository is a collection of my work in those areas.
 
-<!--
-**Cdena-0412/Cdena-0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects
+🔭 In this repository, you’ll find projects related to:
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Predictive Modeling
+Machine Learning Algorithms
+💬 I’m always learning and improving, so feel free to explore and give feedback on any of my projects!
 
-Here are some ideas to get you started:
+Technologies & Tools
+Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
+SQL (Data extraction and manipulation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 Let's Connect
+chenelijaya@gmail.com
+Thanks for stopping by! 🌟
