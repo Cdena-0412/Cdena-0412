@@ -1,5 +1,7 @@
 ## Hi there 👋
-Hi there! 👋 I'm Cheneli Jayawardena, a passionate Data Enthusiast with a strong interest in data analysis, machine learning, and data science. I’m currently building my skills through self-driven projects, and this repository is a collection of my work in those areas.
+Hi there! 👋 
+I'm Cheneli Jayawardena, a passionate Data Enthusiast with a strong interest in data analysis, machine learning, and data science. 
+I’m currently building my skills through self-driven projects, and this repository is a collection of my work in those areas.
 
 Projects
 🔭 In this repository, you’ll find projects related to:
